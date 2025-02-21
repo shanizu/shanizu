@@ -4,7 +4,7 @@
   
 </div>
 
-### Hello 👋  I'm Shani Z ✨
+## Hello 👋  I'm Shani Z ✨
 - 🔭 Working on **Android development** & strengthening fundamentals
 - 💻 Experience with **ML-enabled data analysis pipelines**
 - 🧩 Love programming for the puzzle-solving & building things others enjoy
